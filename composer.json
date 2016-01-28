@@ -1,0 +1,22 @@
+{
+    "name": "jth/green_mt",
+    "description": "Simple to use and naive library for pthreads extension",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan MASSUCHETTI",
+            "email": "jonathan.massuchetti@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "ext-pthreads": ">=3.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "JTH\\GreenMT": "src"
+        }
+    }
+}
