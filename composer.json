@@ -1,5 +1,5 @@
 {
-    "name": "jth/green_mt",
+    "name": "jth/green-mt",
     "description": "Simple to use and naive library for pthreads extension",
     "type": "library",
     "license": "MIT",
